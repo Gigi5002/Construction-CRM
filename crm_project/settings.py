@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-oy_4b1(kpnril909r%9aptmfx1@#%v@sp7)keda89xk-dql)ss
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yourdomain.com', 'construction-crm.onrender.com', 'localhost', '127.0.0.1']
 
 MY_APPS = ['managers', 'apartments']
 
